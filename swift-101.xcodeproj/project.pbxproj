@@ -19,6 +19,8 @@
 		FA40C3902964626200211E1B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		FA40C3922964626400211E1B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA40C3952964626400211E1B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FA40C39F2964638700211E1B /* 1. Data Type.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1. Data Type.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FA40C3A0296463D800211E1B /* 2. Control Flow If-Else.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2. Control Flow If-Else.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		FA40C38D2964626200211E1B /* swift-101 */ = {
 			isa = PBXGroup;
 			children = (
+				FA40C39E2964634400211E1B /* Fundamental Swift */,
 				FA40C38E2964626200211E1B /* swift_101App.swift */,
 				FA40C3902964626200211E1B /* ContentView.swift */,
 				FA40C3922964626400211E1B /* Assets.xcassets */,
@@ -65,6 +68,15 @@
 				FA40C3952964626400211E1B /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		FA40C39E2964634400211E1B /* Fundamental Swift */ = {
+			isa = PBXGroup;
+			children = (
+				FA40C39F2964638700211E1B /* 1. Data Type.playground */,
+				FA40C3A0296463D800211E1B /* 2. Control Flow If-Else.playground */,
+			);
+			path = "Fundamental Swift";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
