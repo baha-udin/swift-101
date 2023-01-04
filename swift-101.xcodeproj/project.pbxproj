@@ -21,6 +21,8 @@
 		FA40C3952964626400211E1B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		FA40C39F2964638700211E1B /* 1. Data Type.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1. Data Type.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FA40C3A0296463D800211E1B /* 2. Control Flow If-Else.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2. Control Flow If-Else.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FAEBBD472965D5C400BB9F1B /* 3. Optional.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3. Optional.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FAEBBD482965D60E00BB9F1B /* 4. Function & Closure.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "4. Function & Closure.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,8 @@
 			children = (
 				FA40C39F2964638700211E1B /* 1. Data Type.playground */,
 				FA40C3A0296463D800211E1B /* 2. Control Flow If-Else.playground */,
+				FAEBBD472965D5C400BB9F1B /* 3. Optional.playground */,
+				FAEBBD482965D60E00BB9F1B /* 4. Function & Closure.playground */,
 			);
 			path = "Fundamental Swift";
 			sourceTree = "<group>";
